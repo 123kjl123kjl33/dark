@@ -12,20 +12,20 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 async def mak(client: Client, message: Message):
     await message.reply_photo(
         photo="https://graph.org/file/2c3533c3282f7b809184c.jpg",
-        caption="~ Team freedom \n~ Dav Source",
+        caption="~ Team \n~ Dav Source",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "⦗ Dev ⦘", url="https://t.me/RR8R9"
+                        "⦗ Dev ⦘", url="https://t.me/Y_S_xo"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "⦗ Updates ⦘", url="https://t.me/vvyvv6"
+                        "⦗ Updates ⦘", url="https://t.me/yjjmhazn"
                     ),
                     InlineKeyboardButton(
-                        "⦗ support ⦘", url="https://t.me/Xl444"
+                        "⦗ support ⦘", url="https://t.me/yosufsally"
                     ),
                 ],
             ]
