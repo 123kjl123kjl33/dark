@@ -22,10 +22,10 @@ async def mak(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "⦗ Updates ⦘", url="https://t.me/yjjmhazn"
+                        "⦗ Updates ⦘", url="https://t.me/F_FF6F"
                     ),
                     InlineKeyboardButton(
-                        "⦗ support ⦘", url="https://t.me/yosufsally"
+                        "⦗ support ⦘", url="https://t.me/BBSI8"
                     ),
                 ],
             ]
